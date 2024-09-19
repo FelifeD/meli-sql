@@ -15,4 +15,4 @@ Queries que respondam os pontos levantados pelo desafio:
 
 ## Diagrama de Entidade Relacionamento
 
-![DER]((https://github.com/FelifeD/meli-sql/blob/main/DER/meli_der.png))
+![DER]([(https://github.com/FelifeD/meli-sql/blob/main/DER/meli_der.png)](https://github.com/FelifeD/meli-sql/blob/main/DER/meli_der.png))
