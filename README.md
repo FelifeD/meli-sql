@@ -14,5 +14,6 @@ Queries que respondam os pontos levantados pelo desafio:
 
 
 ## Diagrama de Entidade Relacionamento
+LINK para acessar dreto no dbdiagram: https://dbdiagram.io/d/meli_der_negocio_fd-60aed44db29a09603d16b361
 
-![DER]([(https://github.com/FelifeD/meli-sql/blob/main/DER/meli_der.png)](https://github.com/FelifeD/meli-sql/blob/main/DER/meli_der.png))
+![meli_der](https://github.com/user-attachments/assets/5c828a07-b8d4-4d6f-b745-875ddab9f7aa)
