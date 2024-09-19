@@ -11,3 +11,8 @@ Queries que respondam os pontos levantados pelo desafio:
 ## arquivos
 - **"create_tables.sql":** contém o script DDL para gerar as tabelas
 - **"respuestas_negocio.sql":** contém o script SQL com as queries necessárias para resolver as questões
+
+
+## Diagrama de Entidade Relacionamento
+
+![DER]((https://github.com/FelifeD/meli-sql/blob/main/DER/meli_der.png))
